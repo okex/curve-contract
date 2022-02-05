@@ -1,10 +1,10 @@
 {
     "lp_contract": "CurveTokenV3",
-    "swap_address": "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7",
-    "lp_token_address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+    "swap_address": "0x9f66F880f2DC78122ab6ee44d106Bc7E410160B6",
+    "lp_token_address": "0xBFD3b0Ba96C884E5fb1ADE0F85B82d4baD84b523",
     "gauge_addresses": ["0xbFcF63294aD7105dEa65aA58F8AE5BE2D9d0952A"],
     "lp_constructor": {
-        "name": "Curve.fi DAI/USDC/USDT",
+        "name": "Curve.fi USDK/USDC/USDT",
         "symbol": "3Crv"
     },
     "swap_constructor": {
@@ -14,7 +14,7 @@
     },
     "coins": [
         {
-            "name": "DAI",
+            "name": "USDK",
             "decimals": 10,
             "tethered": false,
             "underlying_address": "0x533367b864D9b9AA59D0DCB6554DF0C89feEF1fF"
